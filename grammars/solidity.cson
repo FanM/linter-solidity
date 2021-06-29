@@ -68,7 +68,7 @@
   }
   {
     comment: "Language keywords"
-    match: "\\b(var|import|function|constant|view|pure|if|else|for|while|do|break|continue|returns?|private|public|internal|external|inherited|this|suicide|new|is|throw|payable|anonymous|\\_)\\b"
+    match: "\\b(var|import|function|constant|view|pure|if|else|for|while|do|break|continue|returns?|private|public|internal|external|inherited|this|suicide|new|is|throw|payable|anonymous|memory|storage\\_)\\b"
     name: "keyword.control"
   }
   {
